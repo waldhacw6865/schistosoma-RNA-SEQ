@@ -1,0 +1,19 @@
+name: project_environment
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - fastqc
+  - cutadapt
+  - multiqc
+  - STAR
+  - samtools
+  - qualimap
+  - ipykernel
+  - subread
+  - picard
+  - bioconductor-deseq2
+  - r-tidyverse
+  - r-broom
+  - r-languageserver

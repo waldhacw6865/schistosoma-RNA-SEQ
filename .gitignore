@@ -47,3 +47,16 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+Notebook/alignment
+Notebook/counts
+Notebook/dedup
+Notebook/genome
+Notebook/logs
+Notebook/multiqc_data
+Notebook/plot
+Notebook/qualimap
+Notebook/trimmed_data
+Notebook/multiqc_report.html
+Notebook/qc
+Notebook/Rplots.pdf
